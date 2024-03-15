@@ -14,7 +14,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-logs</artifactId>
-            <version>1.11.908</version>
+            <version>1.12.680</version>
         </dependency>
         
         <!-- ANTLR -->
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>3.2.6.RELEASE</version>
+            <version>5.3.33</version>
         </dependency>
     </dependencies>
 </project>
